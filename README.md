@@ -2,7 +2,7 @@
 
 fully functioning login/registration site using authentication codes created by admin users.
 
-ui built using boostrap framework
+ui built using bootstrap framework
 
 php used for all site functions
 prepared statements used for SQL functions
